@@ -1,0 +1,132 @@
+[16/Jul/2020:09:15:35 +0100] Exception leaked to httpSession during phase 'sending-response': 
+During processing of request from 127.0.0.1:52518
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 10\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52518 s=127.0.0.1:8000 ctx=/ clen=10\nparams: text: [\"lyoum\"]"
+A web handler threw an exception. Details:
+user error (Text.Regex.PCRE.String died: (41,"missing )"))
+[16/Jul/2020:09:15:35 +0100] Exception leaked to httpSession during phase 'user handler': 
+During processing of request from 127.0.0.1:52518
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 10\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52518 s=127.0.0.1:8000 ctx=/ clen=10\nparams: text: [\"lyoum\"]"
+A web handler threw an exception. Details:
+TerminateSessionException user error (Text.Regex.PCRE.String died: (41,"missing )"))
+[16/Jul/2020:09:15:37 +0100] Exception leaked to httpSession during phase 'sending-response': 
+During processing of request from 127.0.0.1:52520
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 11\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52520 s=127.0.0.1:8000 ctx=/ clen=11\nparams: text: [\"demain\"]"
+A web handler threw an exception. Details:
+user error (Text.Regex.PCRE.String died: (41,"missing )"))
+[16/Jul/2020:09:15:37 +0100] Exception leaked to httpSession during phase 'user handler': 
+During processing of request from 127.0.0.1:52520
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 11\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52520 s=127.0.0.1:8000 ctx=/ clen=11\nparams: text: [\"demain\"]"
+A web handler threw an exception. Details:
+TerminateSessionException user error (Text.Regex.PCRE.String died: (41,"missing )"))
+[16/Jul/2020:09:15:39 +0100] Exception leaked to httpSession during phase 'sending-response': 
+During processing of request from 127.0.0.1:52522
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 11\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52522 s=127.0.0.1:8000 ctx=/ clen=11\nparams: text: [\"demain\"]"
+A web handler threw an exception. Details:
+user error (Text.Regex.PCRE.String died: (41,"missing )"))
+[16/Jul/2020:09:15:39 +0100] Exception leaked to httpSession during phase 'user handler': 
+During processing of request from 127.0.0.1:52522
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 11\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52522 s=127.0.0.1:8000 ctx=/ clen=11\nparams: text: [\"demain\"]"
+A web handler threw an exception. Details:
+TerminateSessionException user error (Text.Regex.PCRE.String died: (41,"missing )"))
+[16/Jul/2020:09:15:40 +0100] Exception leaked to httpSession during phase 'sending-response': 
+During processing of request from 127.0.0.1:52524
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 11\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52524 s=127.0.0.1:8000 ctx=/ clen=11\nparams: text: [\"demain\"]"
+A web handler threw an exception. Details:
+user error (Text.Regex.PCRE.String died: (41,"missing )"))
+[16/Jul/2020:09:15:40 +0100] Exception leaked to httpSession during phase 'user handler': 
+During processing of request from 127.0.0.1:52524
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 11\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52524 s=127.0.0.1:8000 ctx=/ clen=11\nparams: text: [\"demain\"]"
+A web handler threw an exception. Details:
+TerminateSessionException user error (Text.Regex.PCRE.String died: (41,"missing )"))
+[16/Jul/2020:10:08:34 +0100] Exception leaked to httpSession during phase 'sending-response': 
+During processing of request from 127.0.0.1:52714
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 17\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52714 s=127.0.0.1:8000 ctx=/ clen=17\nparams: text: [\"fi westjom3a\"]"
+A web handler threw an exception. Details:
+user error (Text.Regex.PCRE.String died: (18,"nothing to repeat"))
+[16/Jul/2020:10:08:34 +0100] Exception leaked to httpSession during phase 'user handler': 
+During processing of request from 127.0.0.1:52714
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 17\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52714 s=127.0.0.1:8000 ctx=/ clen=17\nparams: text: [\"fi westjom3a\"]"
+A web handler threw an exception. Details:
+TerminateSessionException user error (Text.Regex.PCRE.String died: (18,"nothing to repeat"))
+[16/Jul/2020:10:08:38 +0100] Exception leaked to httpSession during phase 'sending-response': 
+During processing of request from 127.0.0.1:52716
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 22\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52716 s=127.0.0.1:8000 ctx=/ clen=22\nparams: text: [\"fi west jom3ajeya\"]"
+A web handler threw an exception. Details:
+user error (Text.Regex.PCRE.String died: (18,"nothing to repeat"))
+[16/Jul/2020:10:08:38 +0100] Exception leaked to httpSession during phase 'user handler': 
+During processing of request from 127.0.0.1:52716
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 22\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52716 s=127.0.0.1:8000 ctx=/ clen=22\nparams: text: [\"fi west jom3ajeya\"]"
+A web handler threw an exception. Details:
+TerminateSessionException user error (Text.Regex.PCRE.String died: (18,"nothing to repeat"))
+[16/Jul/2020:10:08:42 +0100] Exception leaked to httpSession during phase 'sending-response': 
+During processing of request from 127.0.0.1:52718
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 16\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52718 s=127.0.0.1:8000 ctx=/ clen=16\nparams: text: [\"lundi matin\"]"
+A web handler threw an exception. Details:
+user error (Text.Regex.PCRE.String died: (18,"nothing to repeat"))
+[16/Jul/2020:10:08:42 +0100] Exception leaked to httpSession during phase 'user handler': 
+During processing of request from 127.0.0.1:52718
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 16\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52718 s=127.0.0.1:8000 ctx=/ clen=16\nparams: text: [\"lundi matin\"]"
+A web handler threw an exception. Details:
+TerminateSessionException user error (Text.Regex.PCRE.String died: (18,"nothing to repeat"))
+[16/Jul/2020:10:17:30 +0100] Exception leaked to httpSession during phase 'sending-response': 
+During processing of request from 127.0.0.1:52744
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 16\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52744 s=127.0.0.1:8000 ctx=/ clen=16\nparams: text: [\"lundi matin\"]"
+A web handler threw an exception. Details:
+user error (Text.Regex.PCRE.String died: (31,"nothing to repeat"))
+[16/Jul/2020:10:17:30 +0100] Exception leaked to httpSession during phase 'user handler': 
+During processing of request from 127.0.0.1:52744
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 16\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52744 s=127.0.0.1:8000 ctx=/ clen=16\nparams: text: [\"lundi matin\"]"
+A web handler threw an exception. Details:
+TerminateSessionException user error (Text.Regex.PCRE.String died: (31,"nothing to repeat"))
+[16/Jul/2020:10:17:32 +0100] Exception leaked to httpSession during phase 'sending-response': 
+During processing of request from 127.0.0.1:52746
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 22\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52746 s=127.0.0.1:8000 ctx=/ clen=22\nparams: text: [\"fi west jom3ajeya\"]"
+A web handler threw an exception. Details:
+user error (Text.Regex.PCRE.String died: (31,"nothing to repeat"))
+[16/Jul/2020:10:17:32 +0100] Exception leaked to httpSession during phase 'user handler': 
+During processing of request from 127.0.0.1:52746
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 22\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52746 s=127.0.0.1:8000 ctx=/ clen=22\nparams: text: [\"fi west jom3ajeya\"]"
+A web handler threw an exception. Details:
+TerminateSessionException user error (Text.Regex.PCRE.String died: (31,"nothing to repeat"))
+[16/Jul/2020:10:19:02 +0100] Exception leaked to httpSession during phase 'sending-response': 
+During processing of request from 127.0.0.1:52750
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 22\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52750 s=127.0.0.1:8000 ctx=/ clen=22\nparams: text: [\"fi west jom3ajeya\"]"
+A web handler threw an exception. Details:
+user error (Text.Regex.PCRE.String died: (31,"nothing to repeat"))
+[16/Jul/2020:10:19:02 +0100] Exception leaked to httpSession during phase 'user handler': 
+During processing of request from 127.0.0.1:52750
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 22\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52750 s=127.0.0.1:8000 ctx=/ clen=22\nparams: text: [\"fi west jom3ajeya\"]"
+A web handler threw an exception. Details:
+TerminateSessionException user error (Text.Regex.PCRE.String died: (31,"nothing to repeat"))
+[16/Jul/2020:10:19:04 +0100] Exception leaked to httpSession during phase 'sending-response': 
+During processing of request from 127.0.0.1:52752
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 16\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52752 s=127.0.0.1:8000 ctx=/ clen=16\nparams: text: [\"lundi matin\"]"
+A web handler threw an exception. Details:
+user error (Text.Regex.PCRE.String died: (31,"nothing to repeat"))
+[16/Jul/2020:10:19:04 +0100] Exception leaked to httpSession during phase 'user handler': 
+During processing of request from 127.0.0.1:52752
+request:
+"POST /parse HTTP/1.1\ncontent-type: application/x-www-form-urlencoded\ncontent-length: 16\naccept: */*\nuser-agent: curl/7.58.0\nhost: 0.0.0.0:8000\n\nsn=\"0.0.0.0:8000\" c=127.0.0.1:52752 s=127.0.0.1:8000 ctx=/ clen=16\nparams: text: [\"lundi matin\"]"
+A web handler threw an exception. Details:
+TerminateSessionException user error (Text.Regex.PCRE.String died: (31,"nothing to repeat"))
